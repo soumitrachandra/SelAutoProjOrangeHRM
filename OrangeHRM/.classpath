@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/commons-io-2.11.0-bin/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/commons-io-2.11.0-bin/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/commons-io-2.11.0-bin/commons-io-2.11.0/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/commons-io-2.11.0-bin/commons-io-2.11.0/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/commons-io-2.11.0-bin/commons-io-2.11.0/commons-io-2.11.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/cucumber-reporting-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/Cucumber/Cucumber JARS/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/ExtentJarFile/lib-20190630T073627Z-001/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/jar_files/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/jar_files/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/jar_files/javax.xml.soap-api-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/jar_files/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/jar_files/jaxws-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/SAUMI/MyWork/EclipseWorkSpace/AllExternalJars/SeleniumJars/selenium-server-standalone-3.141.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

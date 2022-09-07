@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]">
+  <test name="Running SprintOne Test Cases(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://opensource-demo.orangehrmlive.com/"/>
+    <classes>
+      <class name="functionaltestcases.SprintOne">
+        <methods>
+          <include name="TestAfterTest"/>
+          <include name="LaunchBrowser"/>
+          <include name="getResult"/>
+          <include name="TestBeforTest"/>
+          <include name="tc03"/>
+          <include name="CloseBrowser"/>
+          <include name="endReport"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- functionaltestcases.SprintOne -->
+    </classes>
+  </test> <!-- Running SprintOne Test Cases(failed) -->
+</suite> <!-- Failed suite [Suite (0)] -->

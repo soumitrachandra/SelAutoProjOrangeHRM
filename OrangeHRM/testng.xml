@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+	<listeners>
+		<listener class-name="learn.selenium.listners.Listener"/>
+	</listeners>
+	
+	<test name="Running SprintOne Test Cases">
+		<parameter name="browser" value="chrome"></parameter>
+		<parameter name="url" value="https://opensource-demo.orangehrmlive.com/"></parameter>		
+		<classes>
+			<class name="functionaltestcases.SprintOne">
+<!-- 				<methods>
+					<parameter name="num1" value="2"></parameter>
+					<include name="tc001" />
+					<include name="tc002" />
+				</methods> -->
+			</class>
+		</classes>
+	</test>
+	
+</suite>
+
